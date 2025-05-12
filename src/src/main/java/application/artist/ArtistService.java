@@ -1,4 +1,3 @@
 package application.artist;
 
-public class ArtistService {
-}
+public class ArtistService {}

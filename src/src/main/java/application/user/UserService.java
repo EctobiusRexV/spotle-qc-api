@@ -1,4 +1,3 @@
 package application.user;
 
-public class UserService {
-}
+public class UserService {}

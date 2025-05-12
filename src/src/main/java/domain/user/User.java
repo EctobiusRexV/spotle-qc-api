@@ -1,4 +1,3 @@
 package domain.user;
 
-public class User {
-}
+public class User {}

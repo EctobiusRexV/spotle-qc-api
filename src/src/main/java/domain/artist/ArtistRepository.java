@@ -1,4 +1,3 @@
 package domain.artist;
 
-public interface ArtistRepository {
-}
+public interface ArtistRepository {}

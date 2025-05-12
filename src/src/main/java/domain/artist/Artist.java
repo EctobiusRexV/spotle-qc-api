@@ -1,4 +1,3 @@
 package domain.artist;
 
-public class Artist {
-}
+public class Artist {}
